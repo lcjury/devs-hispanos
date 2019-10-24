@@ -118,3 +118,4 @@ Listado de developers de habla hispana en Twitter. Si quiere incluir alguien o a
 | Guillermo Díaz | [Twitter](https://twitter.com/GuillermoDiaz) |
 | David Acevedo I | [Twitter](https://twitter.com/DekoDev) |
 | Luis Jury | [Twitter](https://twitter.com/lcjury) |
+| Luis Porras | [Twitter](https://twitter.com/lporras16) |
