@@ -1,7 +1,7 @@
 # Devs Hispanos
 ![Devs Hispanos](images/logo-repo.gif)
 
-Listado de developers de habla hispana en Twitter. Si quiere incluir alguien o a ti mismo a la lista, se aceptan MR o puedes levantar un issue.
+Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana Gomez](https://twitter.com/gmzjuliana/status/1186813770607280128). Si quiere incluir alguien o a ti mismo a la lista, se aceptan MR o puedes levantar un issue.
 
 | Nombre | Twitter |
 | --- | --- |
