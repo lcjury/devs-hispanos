@@ -4,6 +4,7 @@ Listado de developers de habla hispana en Twitter. Si quiere incluir alguien o a
 
 | Nombre | Twitter |
 | --- | --- |
+| Juan Mora | [Twitter](https://twitter.com/raicerk) |
 | Juliana Gomez | [Twitter](https://twitter.com/gmzjuliana) |
 | Georgie Palankenstein | [Twitter](https://twitter.com/pctroll) |
 | Fabiola Rosato | [Twitter](https://twitter.com/Rosato) |
