@@ -1,4 +1,5 @@
 # Devs Hispanos
+![Devs Hispanos](images/logo-repo.gif)
 
 Listado de developers de habla hispana en Twitter. Si quiere incluir alguien o a ti mismo a la lista, se aceptan MR o puedes levantar un issue.
 
