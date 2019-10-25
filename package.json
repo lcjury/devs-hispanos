@@ -1,0 +1,27 @@
+{
+  "name": "devs-hispanos",
+  "version": "1.0.0",
+  "description": "Cuentas de twitter de devs hispanos",
+  "main": "report-inactive-accounts.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "array-flat-polyfill": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "ms": "^2.1.2",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcjury/devs-hispanos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcjury/devs-hispanos/issues"
+  },
+  "homepage": "https://github.com/lcjury/devs-hispanos#readme"
+}
