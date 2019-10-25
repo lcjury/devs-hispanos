@@ -87,7 +87,6 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Erik Porroa | [Twitter](https://twitter.com/eporroa) |
 | Anitalmada | [Twitter](https://twitter.com/anitalmada) |
 | Sofi Denner | [Twitter](https://twitter.com/sofide_) |
-| mala | [Twitter](https://twitter.com/_amelight) |
 | Matías Iturburu | [Twitter](https://twitter.com/7u7uca) |
 | Leonidas Esteban | [Twitter](https://twitter.com/LeonidasEsteban) |
 | zghet | [Twitter](https://twitter.com/zghet) |
@@ -119,3 +118,59 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | David Acevedo I | [Twitter](https://twitter.com/DekoDev) |
 | Luis Jury | [Twitter](https://twitter.com/lcjury) |
 | Luis Porras | [Twitter](https://twitter.com/lporras16) |
+| Alejandra | [Twitter](https://twitter.com/Cangreja533) |
+| Isabel Yepes | [Twitter](https://twitter.com/iyepes0120) |
+| ∇ ✿ | [Twitter](https://twitter.com/OrianaCadavid) |
+| Isa Buriticá | [Twitter](https://twitter.com/iris9112) |
+| Karo Ladino | [Twitter](https://twitter.com/karobotco) |
+| Ana Belisa Martínez | [Twitter](https://twitter.com/anabelisam_) |
+| Jocelyn Simmonds | [Twitter](https://twitter.com/jsimmond) |
+| Cleyra Uzcat(E)gui | [Twitter](https://twitter.com/cleyrauc) |
+| Malena Rey | [Twitter](https://twitter.com/malerey_) |
+| Patty O' | [Twitter](https://twitter.com/pattyneta) |
+| Eduardo Hernández | [Twitter](https://twitter.com/eduardohgto) |
+| David Sanchez | [Twitter](https://twitter.com/SanchezDav90) |
+| Omar Vazquez | [Twitter](https://twitter.com/VzqzAc) |
+| Juan C. Ruiz | [Twitter](https://twitter.com/JuanCrg90) |
+| Edgar Gonzalez | [Twitter](https://twitter.com/edgar) |
+| Mauricio Duran | [Twitter](https://twitter.com/taufpate) |
+| Rojas Wilmer | [Twitter](https://twitter.com/wart_dev) |
+| Laura | [Twitter](https://twitter.com/g2laura) |
+| Krystle Salazar | [Twitter](https://twitter.com/krysaldb) |
+| Aníbal Rojas | [Twitter](https://twitter.com/anibal) |
+| Ernesto | [Twitter](https://twitter.com/ErneX) |
+| Sebastián Delmont | [Twitter](https://twitter.com/sd) |
+| planetfrank | [Twitter](https://twitter.com/planetfrank) |
+| Carlo Gilmar | [Twitter](https://twitter.com/carlogilmar) |
+| Manu Castrillón | [Twitter](https://twitter.com/ManuCastrillonM) |
+| Eduardo Hernández | [Twitter](https://twitter.com/eduardohgto) |
+| Uriel | [Twitter](https://twitter.com/Uriel_Hedz) |
+| Rodolfo Ferro | [Twitter](https://twitter.com/FerroRodolfo) |
+| Fernanda Ochoa | [Twitter](https://twitter.com/imonsh) |
+| Juan Pa | [Twitter](https://twitter.com/juanpflores_) |
+| Vanessa  Marely | [Twitter](https://twitter.com/vanessamarely) |
+| elyalvarado | [Twitter](https://twitter.com/elyalvarado) |
+| Gerardo Herrera | [Twitter](https://twitter.com/GeroBlacksmith) |
+| Jorge Vergara | [Twitter](https://twitter.com/javebratt) |
+| Eduardo Ismael | [Twitter](https://twitter.com/eduardo_gpg) |
+| Natsumi | [Twitter](https://twitter.com/natsumiangello) |
+| os eclectic dev | [Twitter](https://twitter.com/init_sh) |
+| csslab | [Twitter](https://twitter.com/csslab) |
+| Alessandra Fernándes | [Twitter](https://twitter.com/Alessandra24x) |
+| Daniel Maldonado | [Twitter](https://twitter.com/elcodigok) |
+| debit0 | [Twitter](https://twitter.com/debit0_) |
+| object Object | [Twitter](https://twitter.com/dengue8830) |
+| Leonardo Galante | [Twitter](https://twitter.com/lndgalante) |
+| Hugo D. Farji | [Twitter](https://twitter.com/hdf1996) |
+| Marcos Nils | [Twitter](https://twitter.com/marcosnils) |
+| Andrés | [Twitter](https://twitter.com/AndreusCafe) |
+| Flo Mincucci | [Twitter](https://twitter.com/florenciaypunto) |
+| all your rebase --abort | [Twitter](https://twitter.com/aCarolain) |
+| Luisa Fernanda | [Twitter](https://twitter.com/louiecode) |
+| Natalie Gil | [Twitter](https://twitter.com/ratalie) |
+| Luza Jaramillo | [Twitter](https://twitter.com/luza_jaramillo) |
+| Liz Parody | [Twitter](https://twitter.com/lizparody23) |
+| Linda Gutiérrez | [Twitter](https://twitter.com/lgutie16) |
+| Adriana Fernanda Moya | [Twitter](https://twitter.com/adriifermo) |
+| Martha Isabel | [Twitter](https://twitter.com/martikaes) |
+| Sorey García | [Twitter](https://twitter.com/soreygarcia) |
