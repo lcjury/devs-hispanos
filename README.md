@@ -105,7 +105,6 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Nicolas Molina | [Twitter](https://twitter.com/nicobytes) |
 | (equiman) ⇒ {'Camilo Martinez'} | [Twitter](https://twitter.com/equiman) |
 | Alessandra Pereyra | [Twitter](https://twitter.com/alessandramakes) |
-| Raymi | [Twitter](https://twitter.com/ray_asm) |
 | Bryam Rodriguez | [Twitter](https://twitter.com/bryamrr) |
 | Kattya Cuevas | [Twitter](https://twitter.com/KattyaCuevas) |
 | Gustavo Leon | [Twitter](https://twitter.com/hpneo) |
@@ -135,7 +134,6 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Edgar Gonzalez | [Twitter](https://twitter.com/edgar) |
 | Mauricio Duran | [Twitter](https://twitter.com/taufpate) |
 | Rojas Wilmer | [Twitter](https://twitter.com/wart_dev) |
-| Laura | [Twitter](https://twitter.com/g2laura) |
 | Krystle Salazar | [Twitter](https://twitter.com/krysaldb) |
 | Aníbal Rojas | [Twitter](https://twitter.com/anibal) |
 | Ernesto | [Twitter](https://twitter.com/ErneX) |
