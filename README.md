@@ -41,6 +41,7 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Beléfica | [Twitter](https://twitter.com/iamdoomling) |
 | Claudia in | [Twitter](https://twitter.com/koste4) |
 | Booritica | [Twitter](https://twitter.com/buritica) |
+| Leonardo Graterol | [Twitter](https://twitter.com/museito_scl) |
 | Mauro Chojrin | [Twitter](https://twitter.com/mchojrin) |
 | Camila Gormaz | [Twitter](https://twitter.com/Burasto) |
 | Eduardo G | [Twitter](https://twitter.com/carnby) |
