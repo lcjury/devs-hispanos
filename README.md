@@ -172,3 +172,10 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Adriana Fernanda Moya | [Twitter](https://twitter.com/adriifermo) |
 | Martha Isabel | [Twitter](https://twitter.com/martikaes) |
 | Sorey García | [Twitter](https://twitter.com/soreygarcia) |
+| Nicolas Bello | [Twitter](https://twitter.com/nbellocam) |
+| Leonardo Pittelli | [Twitter](https://twitter.com/leopittelli) |
+| Eva Ferreira | [Twitter](https://twitter.com/evaferreira92) |
+| Guillermo Bellmann | [Twitter](https://twitter.com/gjbellmann) |
+| Rodrigo Díaz Concha | [Twitter](https://twitter.com/rdiazconcha) |
+| Nico Milcoff | [Twitter](https://twitter.com/nmilcoff) |
+| Yury Camacho | [Twitter](https://twitter.com/camachoyury) |
