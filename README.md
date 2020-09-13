@@ -179,3 +179,4 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Rodrigo Díaz Concha | [Twitter](https://twitter.com/rdiazconcha) |
 | Nico Milcoff | [Twitter](https://twitter.com/nmilcoff) |
 | Yury Camacho | [Twitter](https://twitter.com/camachoyury) |
+| Marta Torre | [Twitter](https://twitter.com/MartaTorre_) |
