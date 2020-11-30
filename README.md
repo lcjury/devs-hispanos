@@ -10,7 +10,6 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Georgie Palankenstein | [Twitter](https://twitter.com/pctroll) |
 | Fabiola Rosato | [Twitter](https://twitter.com/Rosato) |
 | Jenny dvr | [Twitter](https://twitter.com/jennydvr1) |
-| Tatiana Molina | [Twitter](https://twitter.com/tatymolys) |
 | María Castro | [Twitter](https://twitter.com/BlackHarpy) |
 | Imperator Bitter9k | [Twitter](https://twitter.com/Bitter9k) |
 | Grimstian Zombiak | [Twitter](https://twitter.com/cchomiakm) |
@@ -164,7 +163,6 @@ Listado de developers de habla hispana en Twitter basado en el tweet de [Juliana
 | Andrés | [Twitter](https://twitter.com/AndreusCafe) |
 | Flo Mincucci | [Twitter](https://twitter.com/florenciaypunto) |
 | all your rebase --abort | [Twitter](https://twitter.com/aCarolain) |
-| Luisa Fernanda | [Twitter](https://twitter.com/louiecode) |
 | Natalie Gil | [Twitter](https://twitter.com/ratalie) |
 | Luza Jaramillo | [Twitter](https://twitter.com/luza_jaramillo) |
 | Liz Parody | [Twitter](https://twitter.com/lizparody23) |
